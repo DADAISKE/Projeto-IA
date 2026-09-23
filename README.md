@@ -44,13 +44,6 @@ O projeto está alinhado aos Objetivos de Desenvolvimento Sustentável (ODS):
 5. Avaliação de equidade entre sexo e faixa etária.
 6. Discussão crítica dos resultados, limitações e riscos éticos (LGPD, viés, explicabilidade x discriminação).
 
-## Como reproduzir a análise exploratória
-
-```bash
-pip install pandas numpy matplotlib scikit-learn jupyter
-jupyter notebook 01_analise_exploratoria.ipynb
-```
-
 ## Aspectos éticos
 
 Dataset público e anonimizado, sem necessidade de submissão a Conselho de Ética em Pesquisa. Ainda assim, o projeto discute os princípios da LGPD (finalidade, minimização, transparência e direito à revisão de decisões automatizadas — art. 20) como se aplicariam a um sistema real, e trata desempenho e equidade como avaliações separadas, já que explicabilidade não garante ausência de discriminação.
