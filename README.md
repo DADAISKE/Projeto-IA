@@ -4,10 +4,9 @@ Projeto da disciplina de Inteligência Artificial (7º CC) — Faculdade de Comp
 
 ## Integrantes
 
-| Nome | RA | E-mail |
-|---|---|---|
-| Rodrigo Daiske Uehara | 10440295 | rodrigo.daiske20@gmail.com |
-| [Nome do(a) colega] | [RA do(a) colega] | [email-do-colega@exemplo.com] |
+| Nome | RA |
+|---|---|
+| Rodrigo Daiske Uehara | 10440295 |
 
 ## Sobre o projeto
 
@@ -25,7 +24,7 @@ O projeto está alinhado aos Objetivos de Desenvolvimento Sustentável (ODS):
 
 ```
 ├── README.md                          # este arquivo
-├── README_dataset.md                  # descrição do dataset
+├── dataset.md                  # descrição do dataset
 ├── german_credit_data.csv             # dataset utilizado
 ├── artigo_parcial_credscoreai.docx    # artigo parcial (N1)
 └── 01_analise_exploratoria.ipynb      # notebook com a análise exploratória e preparação dos dados
